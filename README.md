@@ -7,7 +7,7 @@ A Chrome extension that acts as a spoiler-aware chatbot companion for streaming 
 - **Spoiler Detection** - Automatically filters responses based on your current position in a movie or series
 - **Timestamp Tracking** - Detects where you are in the video and only allows knowledge up to that point
 - **Streaming Site Integration** - Auto-detects content on Disney+ and Netflix
-- **Multi-Universe Support** - Organize content into universes (e.g., Marvel, Family Guy)
+- **Multi-Universe Support** - Organize content into universes (e.g., Marvel, Stranger Things)
 - **MCU Sort Toggle** - Switch between Release Date and Chronological (in-universe timeline) ordering for Marvel content
 - **Content Toggle Switches** - Enable/disable specific movies or episodes from the knowledge base
 - **Search** - Filter movies and series in the content panel
